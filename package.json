@@ -1,0 +1,20 @@
+{
+  "name": "claudia-api-builder-test",
+  "version": "1.0.0",
+  "description": "Test of Claudia API builder on AWS Lambda",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "claudia",
+    "aws",
+    "lambda",
+    "node"
+  ],
+  "author": "Samir Damle",
+  "license": "ISC",
+  "dependencies": {
+    "claudia-api-builder": "^1.6.0"
+  }
+}
