@@ -1,0 +1,11 @@
+{
+  "lambda": {
+    "role": "claudia-api-builder-test-executor",
+    "name": "claudia-api-builder-test",
+    "region": "us-east-1"
+  },
+  "api": {
+    "id": "fwgbz23apf",
+    "module": "server"
+  }
+}
